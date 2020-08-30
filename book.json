@@ -1,0 +1,39 @@
+{
+  "title": "📌",
+  "author": "🌊",
+  "description": "A Book For Me",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "structure": {
+    "readme": "README.md"
+  },
+  "plugins": [
+    "-search",
+    "-sharing",
+    "back-to-top-button",
+    "code",
+    "-lunr",
+    "search-pro",
+    "advanced-emoji",
+    "splitter",
+    "tbfed-pagefooter",
+    "chapter-fold",
+    "expandable-chapters",
+    "favicon-absolute",
+    "github"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy Mango 🥭",
+      "modify_label": "本文最后更新时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "favicon-absolute": {
+      "favicon": "favicon.ico",
+      "appleTouchIconPrecomposed152": "apple-touch-icon-precomposed-152.png"
+    },
+    "github": {
+      "url": "https://github.com/immango"
+    }
+  }
+}
